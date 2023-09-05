@@ -1,5 +1,5 @@
 {
-    "name": "xendit/app-xendit-php",
+    "name": "appkita/xendit-php",
     "description": "PHP clients for Xendit API",
     "version": "1.0.0",
     "license": "MIT",
